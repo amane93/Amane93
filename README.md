@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amima</h1>
-<h3 align="center">An aspiring MERN-stack developer</h3>
+<h3 align="center">An aspiring front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amane93&label=Profile%20views&color=0e75b6&style=flat" alt="amane93" /> </p>
 
